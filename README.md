@@ -1,9 +1,4 @@
-progin
-======
-Terlebih dahulu download file berbentuk .zip pada link dropbox diatas, 
-file tersebut bernama super.zip
 
-kemudian:
 
 
 cara menjalankannya adalah:
